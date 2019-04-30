@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Second Application</string>
+    <string name="confirm">CONFIRM NOW</string>
+    <string name="testString">Test</string>
+    <string-array name="types">
+        <item>Art and Design</item>
+        <item>Information Technology</item>
+        <item>Copywriting</item>
+        <item>Financial Advice</item>
+        <item>Business Consulting</item>
+    </string-array>
+    <string-array name="payment">
+        <item>Credit Card</item>
+        <item>Stripe</item>
+        <item>PayPal</item>
+    </string-array>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
